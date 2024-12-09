@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fuuz5NmJOgnWOTYj996N0tg3ChVtDYRPqTcGe8leiTZX3R1Mu2U4Pc92k3oTBcTvr3WmGfx9rWvtItmXSzrsbg==",
+  "success": true,
+  "projectFilePath": "E:\\A_Synergetics\\Blazor\\blazor-series-blazor-http-client\\End\\BlazorProducts.Server\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+1 create a blazor app using server model and display welcome message on Index component
+2 create application using Web Assembly Model "              "
+3 create component to display student object details using Component Student
+4 create component to demonstrate one way binding for student name.
+5 create component to demonstrate  two way binding for student name
+6 create component to demonstrate event binding to select name of city and display selected city on Div Tag
+7 create child component DisplayStudent(with Student and bool Showfooter )parameters  to demonstrate parameter binding with Parent component StudentList
+  Show Edit Delete Buttons if the ShowFooter is checked (true)
+8 create WEB API and use Httpclient service to do CRUD operations on Blazor Client app for Student entity
+use Migration etc.

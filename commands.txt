@@ -1,0 +1,7 @@
+dotnet --list-sdks
+dotnet new blazorserver -f net6.0
+This command creates a basic Blazor server project with all required files and pages, along with a C# project file named BlazorApp.csproj.
+dotnet watch run
+This will build and start the app, then rebuild and restart the app whenever you make code changes.
+ The app should automatically open in your default browser. 
+Your browser might warn you that the site isn't secure; it's safe to proceed.

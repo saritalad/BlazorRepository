@@ -1,0 +1,9 @@
+D:\Trainings\CG\Sep6\MovieSolution\DALMovie\bin\Debug\DALMovie.dll
+D:\Trainings\CG\Sep6\MovieSolution\DALMovie\bin\Debug\DALMovie.pdb
+D:\Trainings\CG\Sep6\MovieSolution\DALMovie\obj\Debug\DALMovie.csproj.AssemblyReference.cache
+D:\Trainings\CG\Sep6\MovieSolution\DALMovie\obj\Debug\DALMovie.csproj.CoreCompileInputs.cache
+D:\Trainings\CG\Sep6\MovieSolution\DALMovie\obj\Debug\DALMovie.dll
+D:\Trainings\CG\Sep6\MovieSolution\DALMovie\obj\Debug\DALMovie.pdb
+D:\Trainings\CG\Sep6\MovieSolution\DALMovie\bin\Debug\EntityLayer.dll
+D:\Trainings\CG\Sep6\MovieSolution\DALMovie\bin\Debug\EntityLayer.pdb
+D:\Trainings\CG\Sep6\MovieSolution\DALMovie\obj\Debug\DALMovie.csproj.CopyComplete

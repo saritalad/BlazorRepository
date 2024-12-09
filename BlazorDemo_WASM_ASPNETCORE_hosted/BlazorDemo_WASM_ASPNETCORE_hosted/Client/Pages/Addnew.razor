@@ -1,0 +1,77 @@
+﻿@page "/superhero/addnew"
+@page "/superhero/addnew/{id}"
+@using BlazorDemo_WASM_ASPNETCORE_hosted
+@inject ISuperheroServicecs Superheroservice
+@inject HttpClient Http
+@inject NavigationManager NavigationManager
+<h1>@Title SuperHero</h1>
+<hr />
+<EditForm Model="@hero" OnValidSubmit="SaveHero">
+    <DataAnnotationsValidator />
+    <div class="mb-3">
+        <label for="Name" class="form-label">FirstName</label>
+        <div class="col-md-4">
+            <InputText class="form-control" @bind-Value="hero.FirstName" />
+        </div>
+        <ValidationMessage For="@(() => hero.FirstName)" />
+    </div>
+    <div class="mb-3">
+        <label for="Lastname" class="form-label">Lastname</label>
+        <div class="col-md-4">
+            <InputText class="form-control" @bind-Value="hero.LastName" />
+        </div>
+        <ValidationMessage For="@(() => hero.LastName)" />
+    </div>
+    <div class="mb-3">
+        <label for="Cellnumber" class="form-label">Hero Name</label>
+        <div class="col-md-4">
+            <InputText class="form-control" @bind-Value="hero.HeroName" />
+        </div>
+        <ValidationMessage For="@(() => hero.HeroName)" />
+    </div>
+    <div class="mb-3">
+        <label for="Emailid" class="form-label">Comic</label>
+        <div class="col-md-4">
+            <InputText class="form-control" @bind-Value="hero.Comic.Name" />
+        </div>
+        <ValidationMessage For="@(() => hero.Comic.Name)" />
+    </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary">Save</button>
+        <button class="btn btn-light" @onclick="Cancel">Cancel</button>
+    </div>
+</EditForm>
+@code{
+
+    [Parameter]
+    public int Id { get; set; }
+     protected string Title = "Add";
+    protected    SuperHero hero = new SuperHero() ;
+  protected override async Task OnParametersSetAsync()
+    { 
+    if(Id != 0)
+    {
+            Title = "Edit";
+             hero = await Http.GetFromJsonAsync<SuperHero>("api/Superhero/"+ Id);
+        }
+
+    }
+
+      protected async Task SaveHero()
+    {
+        if (hero.Id != 0)
+        {
+            await Http.PutAsJsonAsync("api/Superhero", hero);
+        }
+        else
+        {
+            await Http.PostAsJsonAsync("api/Superhero", hero);
+        }
+        Cancel();
+    }
+
+         public void Cancel()
+    {
+        NavigationManager.NavigateTo("/fetchuserdetails");
+    }
+    }

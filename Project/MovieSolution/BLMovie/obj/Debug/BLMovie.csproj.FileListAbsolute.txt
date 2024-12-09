@@ -1,0 +1,11 @@
+D:\Trainings\CG\Sep6\MovieSolution\BLMovie\bin\Debug\BLMovie.dll
+D:\Trainings\CG\Sep6\MovieSolution\BLMovie\bin\Debug\BLMovie.pdb
+D:\Trainings\CG\Sep6\MovieSolution\BLMovie\obj\Debug\BLMovie.csproj.AssemblyReference.cache
+D:\Trainings\CG\Sep6\MovieSolution\BLMovie\obj\Debug\BLMovie.csproj.CoreCompileInputs.cache
+D:\Trainings\CG\Sep6\MovieSolution\BLMovie\obj\Debug\BLMovie.dll
+D:\Trainings\CG\Sep6\MovieSolution\BLMovie\obj\Debug\BLMovie.pdb
+D:\Trainings\CG\Sep6\MovieSolution\BLMovie\bin\Debug\DALMovie.dll
+D:\Trainings\CG\Sep6\MovieSolution\BLMovie\bin\Debug\EntityLayer.dll
+D:\Trainings\CG\Sep6\MovieSolution\BLMovie\bin\Debug\DALMovie.pdb
+D:\Trainings\CG\Sep6\MovieSolution\BLMovie\bin\Debug\EntityLayer.pdb
+D:\Trainings\CG\Sep6\MovieSolution\BLMovie\obj\Debug\BLMovie.csproj.CopyComplete

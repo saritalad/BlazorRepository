@@ -1,0 +1,42 @@
+﻿@page "/Employees"
+<h3>All Employees</h3>
+@inject Blazor_CRUD_InMem_App.Data.IEmployeeService empservice
+<a href="/emp/0">Add New Employee</a>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var emp in employees)
+        {
+            <tr>
+                <td>@emp.Id</td>
+                <td>@emp.Name</td>
+                <td><a href="emp/@emp.Id">Edit</a></td>
+                <td><button @onclick="@(e=>ondelete(emp.Id))">Delete</button></td>
+            </tr>
+            }
+        </tbody>
+           
+
+    </table>
+
+
+@code {    
+    private List<Blazor_CRUD_InMem_App.Data.Employee> employees;
+    protected override void OnInitialized()
+    {
+        employees = empservice.GetEmployees();
+     
+    }
+    private void ondelete(Guid id)
+    {
+        empservice.DeleteEmployee(id);
+    }
+
+}

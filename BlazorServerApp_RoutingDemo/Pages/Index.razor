@@ -1,0 +1,18 @@
+﻿@page "/"
+@inject NavigationManager navigateManager;
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+
+<button class="btn btn-primary" @onclick="Navigate">Navigate</button>
+@code{
+
+  public void Navigate()
+    {
+
+        navigateManager.NavigateTo("Test");
+    }
+
+
+}

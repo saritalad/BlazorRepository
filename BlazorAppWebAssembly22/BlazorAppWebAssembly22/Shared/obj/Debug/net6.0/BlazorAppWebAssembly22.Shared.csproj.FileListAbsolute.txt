@@ -1,0 +1,12 @@
+E:\Blazor\BlazorAppWebAssembly22\BlazorAppWebAssembly22\Shared\bin\Debug\net6.0\BlazorAppWebAssembly22.Shared.deps.json
+E:\Blazor\BlazorAppWebAssembly22\BlazorAppWebAssembly22\Shared\bin\Debug\net6.0\BlazorAppWebAssembly22.Shared.dll
+E:\Blazor\BlazorAppWebAssembly22\BlazorAppWebAssembly22\Shared\bin\Debug\net6.0\BlazorAppWebAssembly22.Shared.pdb
+E:\Blazor\BlazorAppWebAssembly22\BlazorAppWebAssembly22\Shared\obj\Debug\net6.0\BlazorAppWebAssembly22.Shared.csproj.AssemblyReference.cache
+E:\Blazor\BlazorAppWebAssembly22\BlazorAppWebAssembly22\Shared\obj\Debug\net6.0\BlazorAppWebAssembly22.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Blazor\BlazorAppWebAssembly22\BlazorAppWebAssembly22\Shared\obj\Debug\net6.0\BlazorAppWebAssembly22.Shared.AssemblyInfoInputs.cache
+E:\Blazor\BlazorAppWebAssembly22\BlazorAppWebAssembly22\Shared\obj\Debug\net6.0\BlazorAppWebAssembly22.Shared.AssemblyInfo.cs
+E:\Blazor\BlazorAppWebAssembly22\BlazorAppWebAssembly22\Shared\obj\Debug\net6.0\BlazorAppWebAssembly22.Shared.csproj.CoreCompileInputs.cache
+E:\Blazor\BlazorAppWebAssembly22\BlazorAppWebAssembly22\Shared\obj\Debug\net6.0\BlazorAppWebAssembly22.Shared.dll
+E:\Blazor\BlazorAppWebAssembly22\BlazorAppWebAssembly22\Shared\obj\Debug\net6.0\refint\BlazorAppWebAssembly22.Shared.dll
+E:\Blazor\BlazorAppWebAssembly22\BlazorAppWebAssembly22\Shared\obj\Debug\net6.0\BlazorAppWebAssembly22.Shared.pdb
+E:\Blazor\BlazorAppWebAssembly22\BlazorAppWebAssembly22\Shared\obj\Debug\net6.0\ref\BlazorAppWebAssembly22.Shared.dll

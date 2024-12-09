@@ -1,0 +1,19 @@
+﻿@page "/Binding3"
+<div class="form-group">
+    <label>Frameworks:</label>
+    <select class="form-control" @bind="Frameworks">
+        <option value="Select">Select</option>
+        <option>Blazor</option>
+        <option>ASP.NET Core</option>
+        <option>React</option>
+    </select>
+</div>
+<div class="p-2 mb-2">Framework's Value: @Frameworks</div>
+ 
+@code {
+    private string Frameworks { get; set; } = "ASP.NET Core";
+    //private void UpdateFramework(ChangeEventArgs e)
+    //{
+    //    Frameworks = e.Value as string;
+    //}
+}

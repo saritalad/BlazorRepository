@@ -1,0 +1,29 @@
+﻿@page "/MyComponent"
+@using BlazorApp1.Models
+@using BlazorApp1.Pages.ContactComponents
+@inject Microsoft.Extensions.Configuration.IConfiguration config
+<h3> My Contacts List Displayed here</h3>
+<h2>@config["ClientName"]</h2>
+@foreach (var c in contacts)
+{
+    @*<h2><b>Name </b>: @c.Name</h2>
+    <h2><b>Email</b> : @c.Mail</h2>*@
+    <ContactComponent1 Name="@c.Name" Mail="@c.Mail"></ContactComponent1>
+}
+
+@code {
+
+    private List<Contact> contacts;
+   
+    protected override void OnInitialized()
+
+    {
+        base.OnInitialized();
+        contacts = new List<Contact>()
+    {
+            new Contact {Name="Bill",Mail="Bill@gmail.com"},
+            new Contact {Name="Mill",Mail="Mill@gmail.com"},
+            new Contact {Name="Gill",Mail="Gill@gmail.com"}
+        };
+    }
+}

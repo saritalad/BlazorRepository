@@ -1,0 +1,11 @@
+﻿@page "/button"
+
+<h3>Button_OnclickComponent</h3>
+<h3 class="bg-secondary text-white">@Message </h3>
+<h2> output without handler method using lambda expression</h2>
+<div class="form-group">
+    <label>Message:</label>
+    <button class="form-control" @onclick="@(() =>Message="Hello")">Show Message</button>
+</div>
+@code{    public string Message { get; set; }
+}

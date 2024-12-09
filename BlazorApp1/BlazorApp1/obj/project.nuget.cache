@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L10/aCL+FqoQgqR8rR6aV4zZnNXoZar+ljO50e1BqqGVZJ3SLsgrErG/jZvkyCrnUmGdd8C1aYUqcELslJBtIg==",
+  "success": true,
+  "projectFilePath": "E:\\A_Synergetics\\Blazor\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

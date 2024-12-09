@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cvA2sMFZEovs0JxQT4Jkp5nT23G4kLd1Xol+m+TopoCn+UpvA0lKxT6mhDXcDJObvYF0EBeuBtd5CaTZOdRhTA==",
+  "success": true,
+  "projectFilePath": "E:\\Blazor\\BlazorApp2_Partial_Base\\BlazorApp2_Partial_Base\\BlazorApp2_Partial_Base.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

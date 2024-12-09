@@ -1,0 +1,29 @@
+﻿@page "/checkbox"
+<h3 class="bg-secondary text-white">@Status</h3>
+ 
+<div class="form-group">
+    <label>Agree to terms:</label>
+    <input type="checkbox" value="status" @onchange="Agree" />
+</div>
+ 
+@code {
+    public bool AgreeValue { get; set; }
+    public string Status{ get; set; }
+    private void Agree(ChangeEventArgs e)
+    {
+        AgreeValue = Convert.ToBoolean(e.Value);
+
+        if (AgreeValue == true)
+            Status = "aggreed";
+        else
+            Status = "Disaggree";
+    }
+}
+
+
+
+
+
+
+
+

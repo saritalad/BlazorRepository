@@ -1,0 +1,28 @@
+﻿@page "/EditDept/{id}"
+@using BlazorServerApp.Services
+@using BlazorServerApp.Models
+@inject IDeptService deptservice
+<h3>Editing Department </h3>
+<div class="container">
+    Id :  @dept.Id<br />
+
+    Location :  @dept.Location
+</div>
+
+@code {
+    [Parameter]
+    public string id { get; set; }
+    IDept dept = new IDept();
+    private async Task Display(int id)
+    {
+        dept = await deptservice.DisplayDept(id);
+        
+    }
+    protected override async Task OnInitializedAsync()
+    {
+        await Display(Convert.ToInt32(id));
+    }
+    
+   
+}
+

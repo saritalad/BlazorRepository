@@ -1,0 +1,4 @@
+https://learn.microsoft.com/en-us/aspnet/core/blazor/security/?view=aspnetcore-7.0
+https://www.yogihosting.com/ for blazor 
+details
+https://www.webnethelper.com/2021/08/aspnet-core-5-and-blazor-web-assembly.html 

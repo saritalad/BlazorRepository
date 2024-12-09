@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BlazorDemo_WASM_ASPNETCORE_hosted.Shared/1.0.0": {
+        "runtime": {
+          "BlazorDemo_WASM_ASPNETCORE_hosted.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorDemo_WASM_ASPNETCORE_hosted.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

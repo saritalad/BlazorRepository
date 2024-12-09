@@ -1,0 +1,11 @@
+﻿@page "/Binding6"
+@using System.Globalization
+<input type="text" class="form-control" @bind="DOB" @bind:format="yyyy-MM-dd" />
+ <input type="text" class="form-control" @bind="SaleTime" @bind:format="MMM-dd"  @bind:culture="CultureGB" />
+<input type="text" class="form-control" @bind="SaleTime" @bind:format="MMM-dd" @bind:culture="CultureFR" />
+@code {
+    private DateTime DOB = new DateTime(2000, 11, 30);
+      public DateTime SaleTime { get; set; } = DateTime.Parse("2020/05/15 07:20");
+    public CultureInfo CultureFR { get; set; } = CultureInfo.GetCultureInfo("fr-FR");
+    public CultureInfo CultureGB { get; set; } = CultureInfo.GetCultureInfo("en-gb");
+}

@@ -1,0 +1,27 @@
+﻿@page "/Query-string-display"
+@using Microsoft.AspNetCore.WebUtilities
+@inject NavigationManager NavManager
+
+<h3>QueryStringDisplayDemo</h3>
+<hr />
+
+<h3>First Name: @_name</h3>
+<h3>Age: @_age</h3>
+@code {
+    private string? _name;
+     private int _age;
+    protected override void OnInitialized()
+    {
+        var uri = NavManager.ToAbsoluteUri(NavManager.Uri);
+
+        var queryStrings = QueryHelpers.ParseQuery(uri.Query);
+        if(queryStrings.TryGetValue("name", out var name))
+        {
+            _name = name;
+        }
+          if(queryStrings.TryGetValue("age", out var age))
+        {
+            _age = Convert.ToInt32(age);
+        }
+    }
+}

@@ -1,0 +1,37 @@
+﻿@page "/Binding4"
+
+<h1>Example with input type text :</h1>
+<label for="Framework">Framework:</label>
+<select class="form-control" @bind="ChangeFramework">
+    <option value="Select">Select</option>
+    <option>Blazor</option>
+    <option>ASP.NET Core</option>
+    <option>React</option>
+    <option>Help</option>
+</select>
+<br />
+<br />
+<hr />
+<h1>Lost Focus is used to bind the data of input field </h1>
+<h2>It works after lost focus</h2>
+
+<input type="text" class="form-control" @bind="President" />
+<div class="p-2 mb-2">President is: @President</div>
+<div class="p-2 mb-2">Framework's Value: @Frameworks</div>
+ //property ChangeFramework
+@code {
+    private string Frameworks { get; set; } = "ASP.NET Core";
+    public string ChangeFramework
+    {
+        get { return Frameworks; }
+        set
+        {
+            Frameworks = value;
+            if (Frameworks == "Help")
+            {
+                // call ambulance
+            }
+        }
+    }
+    private string President { get; set; }
+}

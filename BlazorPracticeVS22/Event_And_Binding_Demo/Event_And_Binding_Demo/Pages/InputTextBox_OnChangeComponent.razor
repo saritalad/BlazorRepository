@@ -1,0 +1,29 @@
+﻿@page "/textbox"
+<h3 class="bg-secondary text-white">@MyName</h3>
+ 
+<div class="form-group">
+    <label>Name:</label>
+    <input type="text" class="form-control" @onchange="Name"/>
+</div>
+<div class="form-group">
+    <label>Full Name:</label>
+    <input type="text" class="form-control" @onchange="@(e => FullName(e, null))" />
+    <input type="text" class="form-control" @onchange="@(e => FullName(null, e))" />
+</div>
+@code {
+      public string MyName { get; set; }
+ 
+    private void Name(ChangeEventArgs e)
+    {
+        MyName = e.Value as string;
+    }
+     public string FullNameValue { get; set; }
+ 
+    private void FullName(ChangeEventArgs e1, ChangeEventArgs e2)
+    {
+        if (e1 is not null)
+            FullNameValue = e1.Value as string;
+        if (e2 is not null)
+            FullNameValue = FullNameValue + " " + e2.Value as string;
+    }
+}

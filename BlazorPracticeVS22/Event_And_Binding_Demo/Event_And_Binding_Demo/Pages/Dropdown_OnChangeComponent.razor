@@ -1,0 +1,21 @@
+﻿@page "/dropdown"
+<h3 class="bg-secondary text-white">@MyOption</h3>
+ 
+<div class="form-group">
+    <label>Name:</label>
+    <select class="form-control" @onchange="SelectedFruitfnt">
+        <option>Apple</option>
+        <option>Banana</option>
+        <option>Pine Apple</option>
+        <option>Mango</option>
+    </select>
+</div>
+ 
+@code {
+    public string MyOption { get; set; }
+ 
+    private void SelectedFruitfnt(ChangeEventArgs e)
+    {
+        MyOption = e.Value as string;
+    } 
+}

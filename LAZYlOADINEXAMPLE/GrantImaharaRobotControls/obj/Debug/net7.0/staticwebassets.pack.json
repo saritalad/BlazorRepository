@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\A_Synergetics\\Blazor\\LAZYlOADINEXAMPLE\\GrantImaharaRobotControls\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "E:\\A_Synergetics\\Blazor\\LAZYlOADINEXAMPLE\\GrantImaharaRobotControls\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.GrantImaharaRobotControls.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.GrantImaharaRobotControls.props",
+      "PackagePath": "build\\GrantImaharaRobotControls.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.GrantImaharaRobotControls.props",
+      "PackagePath": "buildMultiTargeting\\GrantImaharaRobotControls.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.GrantImaharaRobotControls.props",
+      "PackagePath": "buildTransitive\\GrantImaharaRobotControls.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

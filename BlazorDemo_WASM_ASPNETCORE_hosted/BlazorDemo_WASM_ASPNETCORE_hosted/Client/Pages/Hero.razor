@@ -1,0 +1,30 @@
+﻿@page "/hero"
+
+@using BlazorDemo_WASM_ASPNETCORE_hosted
+@inject ISuperheroServicecs Superheroservice
+@*@if(Id==null)
+*@{
+    <PageTitle>Create  a new super Hero </PageTitle>
+    <h3>Create new Hero </h3>
+}
+else
+{
+    <PageTitle>Create  a new super Hero </PageTitle>
+  @* <h3>Edit Hero @hero.HeroName </h3>*@
+}
+@code {
+    //[Parameter]
+    //public int? Id { get; set; }
+    //SuperHero hero = new SuperHero { Comic = new Comic() };
+    //protected override async Task OnParametersSetAsync()
+    //{
+    //    if(Id==null)
+    //    {
+
+    //    }
+    //    else
+    //    { 
+    //        hero = await Superheroservice.GetSingleHero((int) Id);
+    //    }
+    //}
+}

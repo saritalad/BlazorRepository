@@ -1,0 +1,52 @@
+﻿@page "/Superhero"
+@using BlazorDemo_WASM_ASPNETCORE_hosted.Shared
+@using BlazorDemo_WASM_ASPNETCORE_hosted.Client.Services.SuperHeroServices
+@inject SuperheroService superheroservice
+<h3>Superheros</h3>
+@inject HttpClient Http
+@inject NavigationManager navigation
+<table class="table table-striped">
+    <tr>
+        <td>Firstname</td>
+        <td>Lastname</td>
+        <td>Hero name</td>
+        <td>Display</td>
+        <td> <div class="col-md-6">
+        <a href='/superhero/addnew' class="btn btn-primary" role="button">
+            <i class="fas fa-user-plus"></i>
+            Add User
+        </a>
+    </div></td>
+    </tr>
+    @foreach(var hero in superheroservice.Heros)
+    {
+    <tr>
+       
+        
+           <td>@hero.FirstName</td> 
+           <td>@hero.LastName</td>
+           <td>@hero.HeroName</td>
+           <td>
+                        <a href='/superhero/addnew/@hero.Id' class="btn btn-outline-dark" role="button">
+                            Edit
+                        </a>
+                        </td>
+      
+       @* <td><button type="submit" class="btn btn-primary" @onclick="(()=>AddHero(hero.Id))">Add Hero</button></td>*@
+    </tr>
+    }
+</table>
+@code {
+    protected override async Task OnInitializedAsync()
+    {
+        await superheroservice.GetSuperHeros();
+    }
+    void ShowHero()
+    {
+        navigation.NavigateTo($"/hero");
+    }
+    void AddHero(int Id)
+    {
+         navigation.NavigateTo($"/addnew/{Id}");
+    }
+}

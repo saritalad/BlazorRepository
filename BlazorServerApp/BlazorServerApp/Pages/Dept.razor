@@ -1,0 +1,47 @@
+﻿@page "/Dept"
+@using BlazorServerApp.Services
+@using BlazorServerApp.Models
+@inject IDeptService deptservice
+<h3>Department List</h3>
+<a href="/addDept">New Dept</a>
+<hr />
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Location</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var data in depts)
+        {
+            <tr>
+                <td>@data.Id</td>
+                <td>@data.Name</td>
+                <td>@data.Location</td>
+                <td>
+                    
+                    <a href="/displayDept/@data.Id" >Display</a> |
+                    <a href='/editDept/@data.Id'>Edit</a>  |
+                    <a href='/deleteDept/@data.Id'>Delete</a>
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+
+@code {
+    private List<IDept> depts = new List<IDept>();
+    protected override async Task OnInitializedAsync()
+    {
+        await GetDept();
+    }
+    private async Task GetDept()
+    {
+        depts = await deptservice.GetDepts();
+    }
+  
+}

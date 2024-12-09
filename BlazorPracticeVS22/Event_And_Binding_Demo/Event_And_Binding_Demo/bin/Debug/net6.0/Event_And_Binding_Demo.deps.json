@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Event_And_Binding_Demo/1.0.0": {
+        "runtime": {
+          "Event_And_Binding_Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Event_And_Binding_Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

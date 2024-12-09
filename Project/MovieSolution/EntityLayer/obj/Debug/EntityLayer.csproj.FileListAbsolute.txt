@@ -1,0 +1,6 @@
+D:\Trainings\CG\Sep6\MovieSolution\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Trainings\CG\Sep6\MovieSolution\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Trainings\CG\Sep6\MovieSolution\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+D:\Trainings\CG\Sep6\MovieSolution\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Trainings\CG\Sep6\MovieSolution\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Trainings\CG\Sep6\MovieSolution\EntityLayer\obj\Debug\EntityLayer.pdb

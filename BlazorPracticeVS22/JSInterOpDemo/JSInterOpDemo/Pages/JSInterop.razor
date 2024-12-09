@@ -1,0 +1,71 @@
+﻿@page "/JsInterop"
+//http://www.binaryintellect.net/articles/6f1c4298-6564-4ca2-b355-c8327511babc.aspx
+@inject IJSRuntime js
+<h3>JS Interop Demo</h3>
+
+<h5>@Message</h5>
+<h3>Sum = @Sum</h3>
+<button id="button1" @onclick="OnButton1Click">
+  Click to invoke JS function
+</button><br />
+<br />
+<hr />
+<button id="button2" @onclick="OnButton2Click">Click to invoke C# method</button>
+@code {
+    public string Message { get; set; }
+    public int Sum{ get; set; }
+
+         //protected override async void OnAfterRenderAsync(bool firstRender)
+         //       {
+         //         if(firstRender)
+         //         {
+         //           Message = await JS.InvokeAsync<string>
+         //       ("GetMessage", "Galaxy");
+         //           StateHasChanged();
+         //         }
+         //       }
+
+                    protected override async void OnAfterRender(bool firstRender)
+                {
+                  if(firstRender)
+                  {
+                    Message = await js.InvokeAsync<string>
+                ("GetMessage", "Galaxy");
+                    await js.InvokeVoidAsync("WireJQueryEventHandler");
+                    StateHasChanged();
+                  }
+                }
+
+    public async void OnButton1Click(MouseEventArgs e)
+    {
+        try
+        {
+           // Message = await js.InvokeAsync<string>("GetMessage", "World");
+            Sum = await js.InvokeAsync<int>("GetSum", 10, 20);
+        }
+    catch(JSException ex)
+    {
+	Message = ex.Message;
+    }
+    StateHasChanged();
+  }
+
+  // now we want to call C# code to be invoked from Js function
+                          [JSInvokable]
+                          //This attribute makes the underlying C# method JavaScript callable.
+                        public bool SetMessage(string msg)
+                        {
+                          Message = msg;
+                          StateHasChanged();
+                          return true;
+                        }
+
+public async void OnButton2Click()
+{
+  var flag = await js.InvokeAsync<bool>("CallCSMethod", 
+DotNetObjectReference.Create(this));
+
+	StateHasChanged();
+}
+
+}

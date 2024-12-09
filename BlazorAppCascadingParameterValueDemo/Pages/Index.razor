@@ -1,0 +1,69 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.WebUtilities
+@inject NavigationManager NavManager
+<PageTitle>Index</PageTitle>
+
+<h1>     Message Component Housed inside Index Page </h1>
+
+       Welcome to your new app.
+<CascadingValue Value=@MessageText>
+<UpperCaseMessage ></UpperCaseMessage>
+<LowerCaseMessage ></LowerCaseMessage>
+</CascadingValue>
+<Message Value="Hello! Universe"></Message>
+
+
+
+
+
+
+@*  
+
+Below code is for Query String demo 
+
+
+*@
+
+
+<p>
+    Click <a href="Query-string-display?name=John&age=26">here</a>
+    to send a query string parameter to the component.
+</p>
+
+
+
+
+
+
+
+
+@*<p>
+    Click the button to send a query string parameter with NavigationManager
+    <button type="button" class="btn btn-info" @onclick="Navigate">Here</button>
+</p>*@
+
+
+
+
+
+
+@code{
+
+
+     string MessageText { get; set; } = "Hello! Universe";
+
+
+
+
+    private void Navigate()
+    {
+        var queryParams = new Dictionary<string, string>
+            {
+                ["name"] = "John",
+                ["age"] = "26"
+            };
+        NavManager.NavigateTo(QueryHelpers.AddQueryString("query-string-display", queryParams));
+    }
+
+
+}

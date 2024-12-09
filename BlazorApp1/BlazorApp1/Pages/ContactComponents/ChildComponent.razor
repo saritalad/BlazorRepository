@@ -1,0 +1,10 @@
+﻿<h3>ChildComponent</h3>
+<span><b>Country</b> @Country</span>
+<br />
+<span> Capital : @Capital</span>
+@code {
+    [Parameter]
+    public string Country{ get; set; }
+    [Parameter]
+    public string Capital{ get; set; }
+}

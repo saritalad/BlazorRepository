@@ -1,0 +1,35 @@
+dotnet tool install --global dotnet-ef
+dotnet ef -h
+USE dir command to see if u ar in the project folder and use CD foldername command to go inside project folder after that use
+following command with appropriate Folder name and context class name 
+The -o option (or alternatively --output-dir) specifies the directory where the class files will be generated. If it is omitted, the class files will be generated in the project directory (where the .csproj file is located).
+
+The DbContext class will take the name of the database plus "Context", You can override this using the -c or --context option
+dotnet ef dbcontext scaffold "Server=abccomputer;Database=webapidb;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -o Model -c "AppDbContext"
+===============================
+public void ConfigureServices(IServiceCollection services)
+{
+    services.AddCors(policy =>
+    {
+        policy.AddPolicy("CorsPolicy", opt => opt
+            .AllowAnyOrigin()
+            .AllowAnyHeader()
+            .AllowAnyMethod());
+    });
+
+    services.AddDbContext<ProductContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("sqlConnection")));
+
+    services.AddControllers();
+}
+public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+{
+    if (env.IsDevelopment())
+    {
+        app.UseDeveloperExceptionPage();
+    }
+
+    app.UseHttpsRedirection();
+    app.UseCors("CorsPolicy");
+
+    //the rest of the code
+}

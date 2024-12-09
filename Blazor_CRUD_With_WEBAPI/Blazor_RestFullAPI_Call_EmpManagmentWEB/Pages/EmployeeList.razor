@@ -1,0 +1,24 @@
+﻿@page "/Employees"
+
+<h3>EmployeeListBaseComponent</h3>
+<table class="table table-striped">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+    </tr>
+ 
+            @foreach(var emp in Employees)
+            {
+            <tr>
+                <td>@emp.EmployeeId</td>
+                <td>@emp.FirstName</td>
+            </tr>
+
+        }
+        
+   
+</table>
+
+
+
+

@@ -1,0 +1,7 @@
+Case Study :
+Design Client Side Application to enter Suppliers Bills and Customers Bill for Medicine Shop.
+Tables 1 Medicine Type(MdeicineTypeId,Typename),Medicine (MedicineId,MedicineName,TypeId), Supplier(SupplierId,SupplierName,
+ContactPerson,ContactNo,City) , stock(StockId,MedicineID,Manufacture Date, Expiry Date ,Price)Transaction (TransactionId,TransactionDate,MedicineId,Qty),
+SupplierOrder(SOrderId,SupplierID, MedicineId,qty,Orderdate,Orderstatus), Customer(CustomerID,Name, Contact, City ),
+CustomerOrder(OrderID,MedicineId,Orderdate),OrderDetails(OrderdetailsId,OrderId,MedicineId,SalesPrice, qty),CustomerInVoice(InvoiceId,OrderID;Amount) 
+Display Report for Monthly Suppliers Bills and Monthly CustomerBills, Print CustomerBills .

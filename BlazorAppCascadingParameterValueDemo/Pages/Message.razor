@@ -1,0 +1,13 @@
+﻿@page "/Message/{value}"
+
+<h1>@Value</h1>
+
+@code {
+    [Parameter]
+   public string? Value { get; set; }
+
+    //protected override void OnInitialized()
+    //{
+    //    Value = "Hello World!";
+    //}
+}

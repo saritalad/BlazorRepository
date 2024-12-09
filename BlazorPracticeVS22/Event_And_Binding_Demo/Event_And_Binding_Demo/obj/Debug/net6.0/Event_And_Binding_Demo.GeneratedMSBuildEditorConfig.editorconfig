@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Event_And_Binding_Demo
+build_property.RootNamespace = Event_And_Binding_Demo
+build_property.ProjectDir = E:\A_Synergetics\Blazor\BlazorPracticeVS22\Event_And_Binding_Demo\Event_And_Binding_Demo\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\A_Synergetics\Blazor\BlazorPracticeVS22\Event_And_Binding_Demo\Event_And_Binding_Demo
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/Binding1Component.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmluZGluZzFDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/Binding2Component.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmluZGluZzJDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/Binding3Component.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmluZGluZzNDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/Binding4Component.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmluZGluZzRDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/Binding5Component.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmluZGluZzVDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/BindingComponent6.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmluZGluZ0NvbXBvbmVudDYucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/ButtonOnFormComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnV0dG9uT25Gb3JtQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/Button_OnclickComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnV0dG9uX09uY2xpY2tDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/Button_OnclickprapogationComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnV0dG9uX09uY2xpY2twcmFwb2dhdGlvbkNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/CheckBox_OnChangeComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tCb3hfT25DaGFuZ2VDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/Dropdown_OnChangeComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRHJvcGRvd25fT25DaGFuZ2VDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/InputTextBox_OnChangeComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5wdXRUZXh0Qm94X09uQ2hhbmdlQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/Radio_OnChangeComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFkaW9fT25DaGFuZ2VDb21wb25lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-i9b4n6upxl
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-bioujktdky
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/A_Synergetics/Blazor/BlazorPracticeVS22/Event_And_Binding_Demo/Event_And_Binding_Demo/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

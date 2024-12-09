@@ -1,0 +1,11 @@
+E:\Yogesh\SEO\Yogihosting\new\Blazor First App\BlazorFirstApp\obj\Release\net5.0\PubTmp\Out\BlazorFirstApp.exe
+E:\Yogesh\SEO\Yogihosting\new\Blazor First App\BlazorFirstApp\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap\bootstrap.min.css
+E:\Yogesh\SEO\Yogihosting\new\Blazor First App\BlazorFirstApp\obj\Release\net5.0\PubTmp\Out\wwwroot\bootstrap\bootstrap.min.css.map
+E:\Yogesh\SEO\Yogihosting\new\Blazor First App\BlazorFirstApp\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+E:\Yogesh\SEO\Yogihosting\new\Blazor First App\BlazorFirstApp\obj\Release\net5.0\PubTmp\Out\appsettings.json
+E:\Yogesh\SEO\Yogihosting\new\Blazor First App\BlazorFirstApp\obj\Release\net5.0\PubTmp\Out\BlazorFirstApp.dll
+E:\Yogesh\SEO\Yogihosting\new\Blazor First App\BlazorFirstApp\obj\Release\net5.0\PubTmp\Out\BlazorFirstApp.deps.json
+E:\Yogesh\SEO\Yogihosting\new\Blazor First App\BlazorFirstApp\obj\Release\net5.0\PubTmp\Out\BlazorFirstApp.runtimeconfig.json
+E:\Yogesh\SEO\Yogihosting\new\Blazor First App\BlazorFirstApp\obj\Release\net5.0\PubTmp\Out\BlazorFirstApp.pdb
+E:\Yogesh\SEO\Yogihosting\new\Blazor First App\BlazorFirstApp\obj\Release\net5.0\PubTmp\Out\BlazorFirstApp.Views.dll
+E:\Yogesh\SEO\Yogihosting\new\Blazor First App\BlazorFirstApp\obj\Release\net5.0\PubTmp\Out\BlazorFirstApp.Views.pdb

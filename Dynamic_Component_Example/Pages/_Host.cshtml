@@ -1,0 +1,8 @@
+﻿@page "/"
+@namespace Dynamic_Component_Example.Pages
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    Layout = "_Layout";
+}
+
+<component type="typeof(App)" render-mode="ServerPrerendered" />

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "hFEIuzkxV2VcGE+rsHlPtNO1UA2cCZ4TMabJpm7FhX4=",
+  "Source": "GrantImaharaRobotControls",
+  "BasePath": "_content/GrantImaharaRobotControls",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GrantImaharaRobotControls\\wwwroot",
+      "Source": "GrantImaharaRobotControls",
+      "ContentRoot": "E:\\A_Synergetics\\Blazor\\LAZYlOADINEXAMPLE\\GrantImaharaRobotControls\\wwwroot\\",
+      "BasePath": "_content/GrantImaharaRobotControls",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\A_Synergetics\\Blazor\\LAZYlOADINEXAMPLE\\GrantImaharaRobotControls\\wwwroot\\background.png",
+      "SourceId": "GrantImaharaRobotControls",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\A_Synergetics\\Blazor\\LAZYlOADINEXAMPLE\\GrantImaharaRobotControls\\wwwroot\\",
+      "BasePath": "_content/GrantImaharaRobotControls",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "E:\\A_Synergetics\\Blazor\\LAZYlOADINEXAMPLE\\GrantImaharaRobotControls\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "GrantImaharaRobotControls",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\A_Synergetics\\Blazor\\LAZYlOADINEXAMPLE\\GrantImaharaRobotControls\\wwwroot\\",
+      "BasePath": "_content/GrantImaharaRobotControls",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ]
+}

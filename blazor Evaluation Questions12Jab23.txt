@@ -1,0 +1,30 @@
+ans 1 :cascading value used in (Top)Parent component(real situation)
+and cascadingparameter used in Child Component
+ans 2 How events are handled in Blazor? : @onclick = "EventHandlermethod"
+similar to javascript approach ( server side function)
+
+ans 3: What Are the lifecycle hooks of component
+onInitialized,oNParametersSet,ShouldRender,OnAfterRender
+What is Render ?
+When set parameter is executed ?
+setParameter is working  b4 Oninitilize executed and component  is rendered this happens only  first time,after everytime make changes on 
+parameter , OnParameterSetAsync is executed and then Render.
+what is concept of dynamic component?
+...........................
+
+
+what is meant by Lazy loading?
+.......................................
+OnNavigateAsync(NavigationContext arg)
+path is given for the lazy loaded component in this method and 
+AdditionalAssemblies attribute is set with(list of lazyloaded assemblies )
+
+what is PWA ?
+
+Progressive Web Application
+Service Worker .js
+download , Install , Activate 
+Any change in 
+
+
+

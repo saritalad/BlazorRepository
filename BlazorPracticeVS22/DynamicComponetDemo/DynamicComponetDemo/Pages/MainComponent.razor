@@ -1,0 +1,51 @@
+﻿@page "/maincomponent"
+<h1> Main component</h1>
+<h1>Button Onclick event loads dynamic component with its Parameters</h1>
+
+<button @onclick="OnHelloWorldClick">Hello World!</button>
+
+<button @onclick="OnHelloGalaxyClick">Hello Galaxy!</button>
+
+<button @onclick="OnHelloUniverseClick">Hello Universe!</button>
+
+<br /><br />
+
+<DynamicComponent Type="@dyncompType" Parameters="@dyncompParams"/>
+@code {
+  
+  Type dyncompType = typeof(Hello);
+
+  public void OnHelloWorldClick()
+  {dyncompParams = new Dictionary<string, object>()
+  {
+    {"Value","This is a value for Hello World component." }
+  };
+    dyncompType = typeof(HelloWorld);
+  }
+
+  public void OnHelloGalaxyClick()
+  { dyncompParams = new Dictionary<string, object>()
+  {
+    {"Value","This is a value for Hello Galaxy component." }
+  };
+     dyncompType = typeof(HelloGalaxy);
+  
+  }
+
+  public void OnHelloUniverseClick()
+  {dyncompParams = new Dictionary<string, object>()
+  {
+    {"Value","This is a value for Hello Universe component." }
+  };
+    dyncompType = typeof(HelloUniverse);
+  }
+
+
+   Dictionary<string, object> dyncompParams = 
+    new Dictionary<string, object>()
+  {
+    {"Value","This is a default value" },
+   
+
+ };
+}

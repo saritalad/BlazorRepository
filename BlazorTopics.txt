@@ -1,0 +1,16 @@
+Blazor Introduction
+Blazor project structure
+Blazor fundamentals
+Blazor Components
+Blazor Model Class
+Blazor Hosting Models
+Authentication
+Security & Identity
+Routing
+Route Parameters
+Event Handling
+Data Binding
+Blazor Event Callback
+Identity Setup in Blazor
+///
+https://www.youtube.com/playlist?list=PLzewa6pjbr3IQEUfNiK2SROQC1NuKl6PV

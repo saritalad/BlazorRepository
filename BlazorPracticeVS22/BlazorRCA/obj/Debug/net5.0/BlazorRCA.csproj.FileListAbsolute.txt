@@ -1,0 +1,198 @@
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.csprojAssemblyReference.cache
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.AssemblyInfoInputs.cache
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.AssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.csproj.CoreCompileInputs.cache
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.MvcApplicationPartsAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorComponent.input.cache
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorComponent.output.cache
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\BlazorRCA.dll
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.TagHelpers.input.cache
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.TagHelpers.output.cache
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorCoreGenerate.cache
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\Razor\App.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorAssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\staticwebassets\BlazorRCA.StaticWebAssets.Manifest.cache
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\staticwebassets\BlazorRCA.StaticWebAssets.xml
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\scopedcss\bundle\BlazorRCA.styles.css
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorTargetAssemblyInfo.cache
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorTargetAssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.dll
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\ref\BlazorRCA.dll
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.pdb
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\bin\Debug\net5.0\appsettings.Development.json
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\bin\Debug\net5.0\appsettings.json
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\bin\Debug\net5.0\libman.json
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\bin\Debug\net5.0\BlazorRCA.exe
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\bin\Debug\net5.0\BlazorRCA.deps.json
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\bin\Debug\net5.0\BlazorRCA.runtimeconfig.json
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\bin\Debug\net5.0\BlazorRCA.runtimeconfig.dev.json
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\bin\Debug\net5.0\BlazorRCA.dll
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\bin\Debug\net5.0\ref\BlazorRCA.dll
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\bin\Debug\net5.0\BlazorRCA.pdb
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\bin\Debug\net5.0\BlazorRCA.Views.dll
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\bin\Debug\net5.0\BlazorRCA.Views.pdb
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.Views.pdb
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.genruntimeconfig.cache
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\BlazorRCA.csproj.CopyComplete
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\Child.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\Parent.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\Razor\Pages\Child.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\Razor\Pages\Parent.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\GT.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\TableTemplate.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\Razor\Pages\GT.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\Razor\Pages\TableTemplate.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\ExampleT.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\Razor\Pages\ExampleT.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\Dogs.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\Razor\Pages\Dogs.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\One.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\Three.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\Two.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\Razor\Pages\One.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\Razor\Pages\Three.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\Razor\Pages\Two.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\ExampleE.razor.g.cs
+E:\Yogesh\SEO\Yogihosting\new\Advanced Razor Components features\BlazorRCA\obj\Debug\net5.0\Razor\Pages\ExampleE.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\appsettings.Development.json
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\appsettings.json
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\libman.json
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\BlazorRCA.StaticWebAssets.xml
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\BlazorRCA.exe
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\BlazorRCA.deps.json
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\BlazorRCA.runtimeconfig.json
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\BlazorRCA.runtimeconfig.dev.json
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\BlazorRCA.dll
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\BlazorRCA.pdb
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\BlazorRCA.Views.dll
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\BlazorRCA.Views.pdb
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.csproj.AssemblyReference.cache
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.GeneratedMSBuildEditorConfig.editorconfig
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.AssemblyInfoInputs.cache
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.AssemblyInfo.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.csproj.CoreCompileInputs.cache
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.MvcApplicationPartsAssemblyInfo.cache
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorComponent.input.cache
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\Child.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\Dogs.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\ExampleE.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\ExampleT.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\GT.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\One.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\Parent.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\TableTemplate.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\Three.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\Two.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorComponent.output.cache
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\BlazorRCA.dll
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.TagHelpers.input.cache
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.TagHelpers.output.cache
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorCoreGenerate.cache
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\App.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\Child.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\Dogs.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\ExampleE.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\ExampleT.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\GT.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\One.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\Parent.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\TableTemplate.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\Three.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\Two.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorAssemblyInfo.cache
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorAssemblyInfo.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\scopedcss\bundle\BlazorRCA.styles.css
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\staticwebassets\BlazorRCA.StaticWebAssets.Manifest.cache
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorTargetAssemblyInfo.cache
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorTargetAssemblyInfo.cs
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.Views.pdb
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.dll
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\refint\BlazorRCA.dll
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.pdb
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.genruntimeconfig.cache
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\ref\BlazorRCA.dll
+E:\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.csproj.CopyComplete
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\appsettings.Development.json
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\appsettings.json
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\libman.json
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\BlazorRCA.exe
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\BlazorRCA.deps.json
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\BlazorRCA.runtimeconfig.json
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\BlazorRCA.runtimeconfig.dev.json
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\BlazorRCA.dll
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\ref\BlazorRCA.dll
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\BlazorRCA.pdb
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\BlazorRCA.Views.dll
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\bin\Debug\net5.0\BlazorRCA.Views.pdb
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.csprojAssemblyReference.cache
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.GeneratedMSBuildEditorConfig.editorconfig
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.AssemblyInfoInputs.cache
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.AssemblyInfo.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.csproj.CoreCompileInputs.cache
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.MvcApplicationPartsAssemblyInfo.cache
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorComponent.input.cache
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\Child.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\Dogs.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\ExampleE.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\ExampleT.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\GT.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\One.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\Parent.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\TableTemplate.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\Three.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Pages\Two.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorComponent.output.cache
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\RazorDeclaration\BlazorRCA.dll
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.TagHelpers.input.cache
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.TagHelpers.output.cache
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorCoreGenerate.cache
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\App.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\Child.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\Dogs.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\ExampleE.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\ExampleT.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\GT.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\One.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\Parent.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\TableTemplate.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\Three.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\Two.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorAssemblyInfo.cache
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorAssemblyInfo.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\staticwebassets\BlazorRCA.StaticWebAssets.Manifest.cache
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\staticwebassets\BlazorRCA.StaticWebAssets.xml
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\scopedcss\bundle\BlazorRCA.styles.css
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorTargetAssemblyInfo.cache
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.RazorTargetAssemblyInfo.cs
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.Views.pdb
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.dll
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\ref\BlazorRCA.dll
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.pdb
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.genruntimeconfig.cache
+E:\A_Synergetics\Blazor\BlazorPracticeVS22\BlazorRCA\obj\Debug\net5.0\BlazorRCA.csproj.CopyComplete

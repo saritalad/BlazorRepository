@@ -1,0 +1,15 @@
+D:\Trainings\CG\Sep6\MovieSolution\MovieApp\bin\Debug\MovieApp.exe.config
+D:\Trainings\CG\Sep6\MovieSolution\MovieApp\bin\Debug\MovieApp.exe
+D:\Trainings\CG\Sep6\MovieSolution\MovieApp\bin\Debug\MovieApp.pdb
+D:\Trainings\CG\Sep6\MovieSolution\MovieApp\obj\Debug\MovieApp.csproj.AssemblyReference.cache
+D:\Trainings\CG\Sep6\MovieSolution\MovieApp\obj\Debug\MovieApp.csproj.SuggestedBindingRedirects.cache
+D:\Trainings\CG\Sep6\MovieSolution\MovieApp\obj\Debug\MovieApp.csproj.CoreCompileInputs.cache
+D:\Trainings\CG\Sep6\MovieSolution\MovieApp\obj\Debug\MovieApp.exe
+D:\Trainings\CG\Sep6\MovieSolution\MovieApp\obj\Debug\MovieApp.pdb
+D:\Trainings\CG\Sep6\MovieSolution\MovieApp\bin\Debug\BLMovie.dll
+D:\Trainings\CG\Sep6\MovieSolution\MovieApp\bin\Debug\EntityLayer.dll
+D:\Trainings\CG\Sep6\MovieSolution\MovieApp\bin\Debug\DALMovie.dll
+D:\Trainings\CG\Sep6\MovieSolution\MovieApp\bin\Debug\BLMovie.pdb
+D:\Trainings\CG\Sep6\MovieSolution\MovieApp\bin\Debug\EntityLayer.pdb
+D:\Trainings\CG\Sep6\MovieSolution\MovieApp\bin\Debug\DALMovie.pdb
+D:\Trainings\CG\Sep6\MovieSolution\MovieApp\obj\Debug\MovieApp.csproj.CopyComplete

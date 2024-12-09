@@ -1,0 +1,14 @@
+﻿@page "/Test"
+<h3>Test</h3>
+<h1>Welcome @username</h1>
+<h2>Welcome to Blazor App @GetName()</h2>
+<button @onclick="ChangeName">change Name</button>
+@code
+ {
+    private string username = "Sarita";
+   
+    private string ChangeName()
+    {
+        return username + "Lad ";
+    }
+}

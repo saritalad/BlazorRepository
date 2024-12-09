@@ -1,0 +1,49 @@
+﻿@page "/emp/{Id}"
+@inject Blazor_CRUD_InMem_App.Data.IEmployeeService  empservice
+@inject NavigationManager navigation
+<h3>Edit Employee</h3>
+
+<h2>Id :  @emp.Id</h2>
+<h2>Name: @emp.Name</h2>
+<EditForm Model="emp" OnSubmit="@SubmitForm">
+    <div class="form-group">
+        <label>Id</label>
+        <input id="id" class="form-control" name="id" value="@emp.Id" readonly />
+    </div>
+    <div class="form-group">
+        <label>Name</label>
+        <InputText id="Name" class="form-control" name="name" @bind-Value="emp.Name"/>
+    </div>
+   
+        <button type="submit" class="btn btn-primary">Submit</button>
+    
+</EditForm>
+@code {
+        [Parameter]
+        public string Id { get; set; }
+    public Blazor_CRUD_InMem_App.Data.Employee emp { get; set; }
+
+    protected override void OnInitialized()
+    {
+        if (!string.IsNullOrEmpty(Id) && Id == "0")
+        {
+            emp = new Data.Employee();
+        }
+        else
+        {
+            emp = empservice.GetEmployee(Guid.Parse(Id));
+        }
+    }
+    private void SubmitForm()
+    {
+        if (emp.Id == Guid.Empty)
+        {
+            empservice.AddEmployee(emp);
+        }
+        else
+        { empservice.UpdateEmployee(emp); }
+        navigation.NavigateTo("Employees");
+    }
+
+
+}

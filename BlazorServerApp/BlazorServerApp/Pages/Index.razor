@@ -1,0 +1,12 @@
+﻿@page "/"
+@using BlazorServerApp.Models
+@using BlazorServerApp.Services
+
+<PageTitle>Index</PageTitle>
+
+<ProductList Products="Products" DisplayBuyButton="true"></ProductList>
+
+
+@code {
+    public List<Product> Products { get; set; } = ProductService.Products.ToList();
+}
