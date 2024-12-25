@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/BMwo/UeaJeRfttJ8QRd2uDHV9Yv3xMITOctnD4GwGEYyI6m6wK1T8Gf2OPmnXWnPHPHENa20dwupsSE5lZ+CQ==",
+  "dgSpecHash": "XY+ollTOtxA=",
   "success": true,
   "projectFilePath": "E:\\A_Synergetics\\Blazor\\Blazor_WebAssemblyHosting_Demo\\Blazor_WebAssemblyHosting_Demo.csproj",
   "expectedPackageFiles": [
@@ -28,6 +28,8 @@
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.jsinterop\\5.0.17\\microsoft.jsinterop.5.0.17.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.17\\microsoft.jsinterop.webassembly.5.0.17.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23401.1\\microsoft.net.illink.analyzers.7.0.100-1.23401.1.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23401.1\\microsoft.net.illink.tasks.7.0.100-1.23401.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.17\\microsoft.netcore.app.runtime.browser-wasm.5.0.17.nupkg.sha512"

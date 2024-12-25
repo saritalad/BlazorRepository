@@ -6,83 +6,77 @@
 
 namespace Blazor_WebAssemblyHosting_Demo.Shared
 {
-    #line hidden
-    using System;
-    using System.Collections.Generic;
-    using System.Linq;
-    using System.Threading.Tasks;
-    using Microsoft.AspNetCore.Components;
+    #line default
+    using global::System;
+    using global::System.Collections.Generic;
+    using global::System.Linq;
+    using global::System.Threading.Tasks;
+    using global::Microsoft.AspNetCore.Components;
 #nullable restore
 #line 1 "E:\A_Synergetics\Blazor\Blazor_WebAssemblyHosting_Demo\_Imports.razor"
-using System.Net.Http;
+using System.Net.Http
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
 #line 2 "E:\A_Synergetics\Blazor\Blazor_WebAssemblyHosting_Demo\_Imports.razor"
-using System.Net.Http.Json;
+using System.Net.Http.Json
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
 #line 3 "E:\A_Synergetics\Blazor\Blazor_WebAssemblyHosting_Demo\_Imports.razor"
-using Microsoft.AspNetCore.Components.Forms;
+using Microsoft.AspNetCore.Components.Forms
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
 #line 4 "E:\A_Synergetics\Blazor\Blazor_WebAssemblyHosting_Demo\_Imports.razor"
-using Microsoft.AspNetCore.Components.Routing;
+using Microsoft.AspNetCore.Components.Routing
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
 #line 5 "E:\A_Synergetics\Blazor\Blazor_WebAssemblyHosting_Demo\_Imports.razor"
-using Microsoft.AspNetCore.Components.Web;
+using Microsoft.AspNetCore.Components.Web
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
 #line 6 "E:\A_Synergetics\Blazor\Blazor_WebAssemblyHosting_Demo\_Imports.razor"
-using Microsoft.AspNetCore.Components.Web.Virtualization;
+using Microsoft.AspNetCore.Components.Web.Virtualization
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
 #line 7 "E:\A_Synergetics\Blazor\Blazor_WebAssemblyHosting_Demo\_Imports.razor"
-using Microsoft.AspNetCore.Components.WebAssembly.Http;
+using Microsoft.AspNetCore.Components.WebAssembly.Http
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
 #line 8 "E:\A_Synergetics\Blazor\Blazor_WebAssemblyHosting_Demo\_Imports.razor"
-using Microsoft.JSInterop;
+using Microsoft.JSInterop
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
 #line 9 "E:\A_Synergetics\Blazor\Blazor_WebAssemblyHosting_Demo\_Imports.razor"
-using Blazor_WebAssemblyHosting_Demo;
+using Blazor_WebAssemblyHosting_Demo
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
 #line 10 "E:\A_Synergetics\Blazor\Blazor_WebAssemblyHosting_Demo\_Imports.razor"
-using Blazor_WebAssemblyHosting_Demo.Shared;
+using Blazor_WebAssemblyHosting_Demo.Shared
 
 #line default
 #line hidden
 #nullable disable
+    ;
+    #nullable restore
     public partial class NavMenu : global::Microsoft.AspNetCore.Components.ComponentBase
+    #nullable disable
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(global::Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -104,6 +98,7 @@ using Blazor_WebAssemblyHosting_Demo.Shared;
 #line default
 #line hidden
 #nullable disable
+
     }
 }
 #pragma warning restore 1591

@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = EmployeeManagementBlazor_InMemory_Demo
+build_property.ProjectDir = E:\A_Synergetics\Blazor\BlazorModel_Example\EmployeeManagementBlazor_InMemory_Demo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
