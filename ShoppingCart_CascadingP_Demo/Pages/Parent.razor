@@ -1,0 +1,16 @@
+﻿@page "/parent"
+@using ShoppingCart_CascadingP_Demo.Data;
+<div>
+    <h3>Shopping Cart</h3>
+    <CartItems Items="@cartItems" />
+    <TotalPrice Items="@cartItems" />
+</div>
+
+@code {
+    private List<CartItem> cartItems = new List<CartItem>
+    {
+        new CartItem { Name = "Product 1", Price = 10 },
+        new CartItem { Name = "Product 2", Price = 20 },
+        new CartItem { Name = "Product 3", Price = 30 }
+    };
+}

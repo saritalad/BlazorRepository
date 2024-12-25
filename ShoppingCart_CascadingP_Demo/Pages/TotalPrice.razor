@@ -1,0 +1,19 @@
+﻿@using ShoppingCart_CascadingP_Demo.Data;
+<h3>TotalPrice</h3>
+@* // TotalPrice.razor (Child Component) *@
+<div>
+    <h4>Total Price: $@totalPrice</h4>
+</div>
+
+@code {
+    [Parameter]
+    public List<CartItem> Items { get; set; }
+
+    private decimal totalPrice;
+
+    protected override void OnParametersSet()
+    {
+        totalPrice = Items.Sum(item => item.Price);
+    }
+}
+
